@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" style="width: 250px;">
+  <img src="Data/3FhGU3AVTqegXcilXia4IQ.webp" style="width: 250px;">
   
 </p>
 <h1 align="center">FinanceGymRL</h1>
